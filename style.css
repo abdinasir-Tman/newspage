@@ -129,7 +129,7 @@ p {
   cursor: pointer;
 }
 /* =========== Mobile ======== */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
   .menue {
     visibility: visible;
     position: absolute;
